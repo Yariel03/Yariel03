@@ -13,20 +13,22 @@
 
 
 ### aboutMe.js
-```npm
-npm i yariel.dev
+```js
+console.log("Hello world!")
 ```
 ```javascript
-console.log("Hello world!")
-const yariel.dev = {
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+
+let yariel_dev:Developer = {  
     technologies: {
         frontEnd:["Angular", "React"],
         backEnd:["node", "java","C#","php"],
         db:["postgresql", "sqlserver","MySql","Oracle"]
     }
 };
+
+this.yariel_dev.map((learn)=>{
+learn.technologies=technologies++
+})
 ```
 
 <p align="center">
