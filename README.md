@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! I'm Yariel Baldeon, FULL-STACK developer
 
 
-**Yariel03/Yariel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: alexanderBaldeon](https://img.shields.io/badge/-Yariel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-baldeon-586533160/)](https://www.linkedin.com/in/alexander-baldeon-586533160/)
+  <!-- [](https://visitor-badge.glitch.me/badge?page_id=Yariel03)  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### aboutMe.js
+
+```javascript
+const yariel.dev = {
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    technologies: {
+        frontEnd: 
+            ["Angular", "React"],
+     
+        backEnd:  
+        ["node", "java","C#","php"]
+         db:  
+        ["postgresql", "sqlserver","MySql","Oracle"]
+    }
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
 
