@@ -12,13 +12,9 @@ const yariel.dev = {
     code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
-        frontEnd: 
-            ["Angular", "React"],
-     
-        backEnd:  
-        ["node", "java","C#","php"]
-         db:  
-        ["postgresql", "sqlserver","MySql","Oracle"]
+        frontEnd:["Angular", "React"],
+        backEnd:["node", "java","C#","php"]
+        db:["postgresql", "sqlserver","MySql","Oracle"]
     }
 };
 ```
