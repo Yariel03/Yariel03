@@ -13,14 +13,17 @@
 
 
 ### aboutMe.js
-
+```npm
+npm i yariel.dev
+```
 ```javascript
+console.log("Hello world!")
 const yariel.dev = {
     code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd:["Angular", "React"],
-        backEnd:["node", "java","C#","php"]
+        backEnd:["node", "java","C#","php"],
         db:["postgresql", "sqlserver","MySql","Oracle"]
     }
 };
